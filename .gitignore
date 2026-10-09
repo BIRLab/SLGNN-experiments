@@ -1,0 +1,20 @@
+# MATLAB autosaves and generated outputs
+*.asv
+*.m~
+*.fig
+*.png
+*.pdf
+*.log
+*.mat
+!experiment_d/inputs/common_robot_replay.mat
+experiment_d/results/
+experiment_d/figures/
+experiment_d/logs/
+experiment_d/tuning/*
+!experiment_d/tuning/candidates.csv
+experiment_c/paper_*
+experiment_c/mvn_baseline_speed_scan_results_*.csv
+!experiment_c/mvn_baseline_speed_scan_results_20260614_185914.csv
+__pycache__/
+.DS_Store
+Thumbs.db

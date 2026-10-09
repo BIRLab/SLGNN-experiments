@@ -1,0 +1,8 @@
+Method,Gamma,Beta,Label
+ZNN,100,0,ZNN_original
+ZNN,300,0,ZNN_gain300
+ZNN,1000,0,ZNN_gain1000
+smg-RNN,100,1,smg_original
+smg-RNN,1000,0.1,smg_g1000_b01
+smg-RNN,300,0.2,smg_g300_b02
+GNN,300,0,GNN_gain300
