@@ -1,0 +1,245 @@
+{
+  "release_date": "2026-10-16",
+  "base_code_commit": "4976ff519353426bf4b5c174698c7ed850ba6f8c",
+  "manuscript": "latex_v11_ztm/00-main.tex",
+  "sources": [
+    {
+      "published_file": "native/fig4a.fig",
+      "workspace_source_relative": "5_figures/直线走-10s机器人图.fig",
+      "source_sha256": "ba60fb34912d9f0f344030763875ad051fee1376e55c13cb3f3f86be1e51c72e",
+      "published_sha256": "ba60fb34912d9f0f344030763875ad051fee1376e55c13cb3f3f86be1e51c72e",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig4c.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/feasible_region_expansion.fig",
+      "source_sha256": "fc40385edab2de8c7b11562e5bf34ee57c8d1b33cccd5eef49c80badc3d1bdf7",
+      "published_sha256": "fc40385edab2de8c7b11562e5bf34ee57c8d1b33cccd5eef49c80badc3d1bdf7",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig4d.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/straight_slack_activation-eps-converted-to.fig",
+      "source_sha256": "0c7778aa16f8c69eae01a2bcff59f68c05c172639a9fe0ba600897afdc1505ff",
+      "published_sha256": "0c7778aa16f8c69eae01a2bcff59f68c05c172639a9fe0ba600897afdc1505ff",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig4e.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/walking_straight_without_limit4-eps-converted-to.fig",
+      "source_sha256": "2b39717bfe2d0f33b44e170d50fd897e2c2bfd70a12ba9a756c7a5cd5221c655",
+      "published_sha256": "2b39717bfe2d0f33b44e170d50fd897e2c2bfd70a12ba9a756c7a5cd5221c655",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig4f.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/walking_straight_with_limit4-eps-converted-to.fig",
+      "source_sha256": "166d25c52d622227d5cc3fe94e59cb82ca6f82246cc5ccdcdf1c7c55f659c3dd",
+      "published_sha256": "166d25c52d622227d5cc3fe94e59cb82ca6f82246cc5ccdcdf1c7c55f659c3dd",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig6a.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/fig5a_stair_robot_experiment.fig",
+      "source_sha256": "23ba09df14654d51e88ff6573a27143b745a58dabdbb409a7d9d71636ae9f0bd",
+      "published_sha256": "23ba09df14654d51e88ff6573a27143b745a58dabdbb409a7d9d71636ae9f0bd",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig6b_joint4.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/fig5b_joint4_velocity_comparison.fig",
+      "source_sha256": "5aa25c9c2bf94752297634c2fbd2a4c192c5f50002856ccc2721653792164f17",
+      "published_sha256": "5aa25c9c2bf94752297634c2fbd2a4c192c5f50002856ccc2721653792164f17",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig6b_joint9.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/fig5b_joint8_velocity_comparison.fig",
+      "source_sha256": "fd2b5932762fb8ed691f5cb04cb4b9c0c0b815f2db3d2a0f68b294f12241341e",
+      "published_sha256": "fd2b5932762fb8ed691f5cb04cb4b9c0c0b815f2db3d2a0f68b294f12241341e",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig6c.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/fig5b_normalized_velocity.fig",
+      "source_sha256": "1842ce67553dc52324493bfba081d13f39d5569170bd4e6fbad9caddf971ead5",
+      "published_sha256": "1842ce67553dc52324493bfba081d13f39d5569170bd4e6fbad9caddf971ead5",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig6d.fig",
+      "workspace_source_relative": "5_figures/NC_revised_pdf/editable_matlab/fig5b_slack_variables.fig",
+      "source_sha256": "fd6d31d3deaaa206f7e931a9a4417815043e4919fce096afd5f70de7407b929c",
+      "published_sha256": "fd6d31d3deaaa206f7e931a9a4417815043e4919fce096afd5f70de7407b929c",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig6e_right.fig",
+      "workspace_source_relative": "5_figures/Right leg error（爬楼梯）.fig",
+      "source_sha256": "3521a0d367aafcd4e457b33295bb15f32da9cf770556fda627f9181b132212f9",
+      "published_sha256": "3521a0d367aafcd4e457b33295bb15f32da9cf770556fda627f9181b132212f9",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig6e_left.fig",
+      "workspace_source_relative": "5_figures/Left leg error（爬楼梯）.fig",
+      "source_sha256": "ba71b88999791d25d919b870b9a6456f7a82bc22861eb7abc0fff00c40ef8626",
+      "published_sha256": "ba71b88999791d25d919b870b9a6456f7a82bc22861eb7abc0fff00c40ef8626",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig4b_vector_only.eps",
+      "workspace_source_relative": "5_figures/关节的归一化速度（直线行走）.eps",
+      "source_sha256": "9af4459895934f0e51a54ad2c29e5ad0597a91c317cbfa90901e539318ae5d59",
+      "published_sha256": "852d95a7c5ded88f091f965865a0506e2b3ed68158b5ecb926ac8c5c54b40b46",
+      "transformation": "Only EPS Title metadata sanitized; graphics bytes unchanged"
+    },
+    {
+      "published_file": "native/fig4g_vector_only.eps",
+      "workspace_source_relative": "5_figures/Right leg error（直线）.eps",
+      "source_sha256": "9f3730c11255a24a53655d19f7a5938e9809b4a5c0a4c174369ebf666e7bcd57",
+      "published_sha256": "308c15be7c7beaafc88edb2b05f5ecff1e3a54c63f0666dd20eefa9063d25fed",
+      "transformation": "Only EPS Title metadata sanitized; graphics bytes unchanged"
+    },
+    {
+      "published_file": "native/fig4h_vector_only.eps",
+      "workspace_source_relative": "5_figures/Left leg error（直线）.eps",
+      "source_sha256": "7244c7d32496e1f80eb5a79d7870eec835d9ee53fabbcae95b80828334ac6eb7",
+      "published_sha256": "8f9467ed460b3179751f4f80a21aaa3ddf8361efc89c3d8d181dcdd87cce343e",
+      "transformation": "Only EPS Title metadata sanitized; graphics bytes unchanged"
+    },
+    {
+      "published_file": "native/fig5_comparison.mat",
+      "workspace_source_relative": "2_code/_backups/experiment_d_before_20261009_211421/results/comparison.mat",
+      "source_sha256": "2e3177078aa1d68db0b7eef9494e795662447c45f6ac5b2e08da41fd0c1afaa1",
+      "published_sha256": "2e3177078aa1d68db0b7eef9494e795662447c45f6ac5b2e08da41fd0c1afaa1",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/speed_scan_original.csv",
+      "workspace_source_relative": "2_code/实验c_直线行走_可行域扫描/mvn_baseline_speed_scan_results_20260614_185914.csv",
+      "source_sha256": "3849c211a6c2cb2292fc3de4edf63477ee581d11158274fcab44b8715cc5ed85",
+      "published_sha256": "3849c211a6c2cb2292fc3de4edf63477ee581d11158274fcab44b8715cc5ed85",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/fig7_photographic_sequence.pdf",
+      "workspace_source_relative": "latex_v11_ztm/real_all-m4-eps-converted-to.pdf",
+      "source_sha256": "be4ddc22cc0d49719fafe05b435bf9c08c0958429ac28fe05884478b35c3cef9",
+      "published_sha256": "be4ddc22cc0d49719fafe05b435bf9c08c0958429ac28fe05884478b35c3cef9",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig4a.pdf",
+      "workspace_source_relative": "latex_v11_ztm/fig4a_straight_walking_sequence.pdf",
+      "source_sha256": "e9c690a44b418f8be2e697ff82eaa2e78b5aacf0fde07856be0756dd71f9c88f",
+      "published_sha256": "e9c690a44b418f8be2e697ff82eaa2e78b5aacf0fde07856be0756dd71f9c88f",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig4b.pdf",
+      "workspace_source_relative": "latex_v11_ztm/straight_normalized_joint_velocity-eps-converted-to.pdf",
+      "source_sha256": "0d4896ee047d4743c3a73a337134d08d9de1b3c575dfb4419c85dbf1fcbb817e",
+      "published_sha256": "0d4896ee047d4743c3a73a337134d08d9de1b3c575dfb4419c85dbf1fcbb817e",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig4c.pdf",
+      "workspace_source_relative": "latex_v11_ztm/feasible_region_expansion-eps-converted-to.pdf",
+      "source_sha256": "58a700709abe3a8d17d89c40b74035ad00bb09d759bf478b3c0adc71d64ba1da",
+      "published_sha256": "58a700709abe3a8d17d89c40b74035ad00bb09d759bf478b3c0adc71d64ba1da",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig4d.pdf",
+      "workspace_source_relative": "latex_v11_ztm/straight_slack_activation-eps-converted-to.pdf",
+      "source_sha256": "375d63480bc6821a2a73e8d471703d502a8ebe0e7751f560c23a395fab709e1d",
+      "published_sha256": "375d63480bc6821a2a73e8d471703d502a8ebe0e7751f560c23a395fab709e1d",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig4e.pdf",
+      "workspace_source_relative": "latex_v11_ztm/walking_straight_without_limit4-eps-converted-to.pdf",
+      "source_sha256": "7218df469ae4fd1985cca536e5911ff18ea2a86fc4fb75145d57ac282cadbc08",
+      "published_sha256": "7218df469ae4fd1985cca536e5911ff18ea2a86fc4fb75145d57ac282cadbc08",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig4f.pdf",
+      "workspace_source_relative": "latex_v11_ztm/walking_straight_with_limit4-eps-converted-to.pdf",
+      "source_sha256": "9d9cadbf2bac19a2bf1d0993b1fa17ef934051ae0bfa5716d6d83602ffd1ed3e",
+      "published_sha256": "9d9cadbf2bac19a2bf1d0993b1fa17ef934051ae0bfa5716d6d83602ffd1ed3e",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig4g.pdf",
+      "workspace_source_relative": "latex_v11_ztm/straight_right_leg_xy_error-eps-converted-to.pdf",
+      "source_sha256": "5aaee4b898ff85b4dfe3582e945fa5a3009af70eadc2295b122bdd4440e62d1d",
+      "published_sha256": "5aaee4b898ff85b4dfe3582e945fa5a3009af70eadc2295b122bdd4440e62d1d",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig4h.pdf",
+      "workspace_source_relative": "latex_v11_ztm/straight_left_leg_xy_error-eps-converted-to.pdf",
+      "source_sha256": "c70f790d58dc8e288a90a0c277541400a8fa23dfcb0e6a7305e31c50db4ad18b",
+      "published_sha256": "c70f790d58dc8e288a90a0c277541400a8fa23dfcb0e6a7305e31c50db4ad18b",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig5.pdf",
+      "workspace_source_relative": "latex_v11_ztm/smg_original_convergence.pdf",
+      "source_sha256": "4e4bf2d8a64aebf605680ce58b514a495915dace86c931da006e2614072af078",
+      "published_sha256": "4e4bf2d8a64aebf605680ce58b514a495915dace86c931da006e2614072af078",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig6a.pdf",
+      "workspace_source_relative": "latex_v11_ztm/fig5a_stair_robot_experiment.pdf",
+      "source_sha256": "d2d00ba8428d7f8f650086cdbdb4ffa1e7d1663353e23fc88247ecd36ef16e7a",
+      "published_sha256": "d2d00ba8428d7f8f650086cdbdb4ffa1e7d1663353e23fc88247ecd36ef16e7a",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig6b_joint4.pdf",
+      "workspace_source_relative": "latex_v11_ztm/fig5b_joint4_velocity_comparison.pdf",
+      "source_sha256": "52d6d07b890a7fca0d4c4d4474dfca87f6bfb978ee3a82f3c9fb033404380a4d",
+      "published_sha256": "52d6d07b890a7fca0d4c4d4474dfca87f6bfb978ee3a82f3c9fb033404380a4d",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig6b_joint9.pdf",
+      "workspace_source_relative": "latex_v11_ztm/fig5b_joint8_velocity_comparison.pdf",
+      "source_sha256": "cb520933c26f0d0a896416db7748e57331d01149f86766acd82f2a8fbe5472b4",
+      "published_sha256": "cb520933c26f0d0a896416db7748e57331d01149f86766acd82f2a8fbe5472b4",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig6c.pdf",
+      "workspace_source_relative": "latex_v11_ztm/fig5b_normalized_velocity.pdf",
+      "source_sha256": "4206d44131e646ffafb8ee8e2e92aa071e4394569d764259145056279a236659",
+      "published_sha256": "4206d44131e646ffafb8ee8e2e92aa071e4394569d764259145056279a236659",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig6d.pdf",
+      "workspace_source_relative": "latex_v11_ztm/fig5b_slack_variables.pdf",
+      "source_sha256": "13868327fa77e5f1e2b4e9d15302588ea4d6e809d05b1f882940dc91b8a3f41f",
+      "published_sha256": "13868327fa77e5f1e2b4e9d15302588ea4d6e809d05b1f882940dc91b8a3f41f",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig6e_right.pdf",
+      "workspace_source_relative": "latex_v11_ztm/stair_right_leg_xy_error-eps-converted-to.pdf",
+      "source_sha256": "efdacad5b3027c9528d46591c36e63aca5880642201f58eb9b742a8fc93a9f88",
+      "published_sha256": "efdacad5b3027c9528d46591c36e63aca5880642201f58eb9b742a8fc93a9f88",
+      "transformation": "byte-for-byte copy"
+    },
+    {
+      "published_file": "native/paper_panels/fig6e_left.pdf",
+      "workspace_source_relative": "latex_v11_ztm/stair_left_leg_xy_error-eps-converted-to.pdf",
+      "source_sha256": "c6193b21413711bbcc09976349136d12081a551ae8932a66a0415843037213d1",
+      "published_sha256": "c6193b21413711bbcc09976349136d12081a551ae8932a66a0415843037213d1",
+      "transformation": "byte-for-byte copy"
+    }
+  ]
+}

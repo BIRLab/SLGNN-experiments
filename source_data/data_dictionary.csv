@@ -1,0 +1,120 @@
+file,column,unit,description
+fig4/fig4a_saved_geometry.csv,object_id,index,Object index matching the adjacent objects.json metadata
+fig4/fig4a_saved_geometry.csv,vertex_index,index,Column-major vertex index in the saved MATLAB graphics object
+fig4/fig4a_saved_geometry.csv,matrix_row,index,Original MATLAB XData/YData/ZData array row
+fig4/fig4a_saved_geometry.csv,matrix_column,index,Original MATLAB XData/YData/ZData array column
+fig4/fig4a_saved_geometry.csv,x_mm,mm,"Saved plot X coordinate; geometric data, not sensor measurement"
+fig4/fig4a_saved_geometry.csv,y_mm,mm,"Saved plot Y coordinate; geometric data, not sensor measurement"
+fig4/fig4a_saved_geometry.csv,z_mm,mm,"Saved plot Z coordinate; geometric data, not sensor measurement"
+fig4/fig4c_feasible_region.csv,method,category,"MVN, GNN, ZNN or SLGNN; old smg-RNN and SP-VP-RNN labels are retained only in native archives"
+fig4/fig4c_feasible_region.csv,penalty_p,dimensionless,Penalty parameter; speed scan uses 0 or 200
+fig4/fig4c_feasible_region.csv,speed_over_MVN_boundary,dimensionless,Forward speed divided by the archived MVN boundary speed 137.6953125 mm/s
+fig4/fig4c_feasible_region.csv,max_normalized_joint_velocity,dimensionless,Maximum over joints of absolute rate divided by the corresponding rate bound
+fig4/fig4c_shaded_region.csv,vertex,index,Polygon vertex in saved order
+fig4/fig4c_shaded_region.csv,speed_over_MVN_boundary,dimensionless,Forward speed divided by the archived MVN boundary speed 137.6953125 mm/s
+fig4/fig4c_shaded_region.csv,normalized_velocity,dimensionless,Vertical coordinate of shaded feasible-region polygon
+fig4/fig4d.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig4/fig4d.csv,Right_slack_rate_mm_s,mm/s,"Signed vertical slack velocity, not displacement"
+fig4/fig4d.csv,Left_slack_rate_mm_s,mm/s,"Signed vertical slack velocity, not displacement"
+fig4/fig4e_MVN_joint_rates.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig4/fig4e_MVN_joint_rates.csv,q1_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4e_MVN_joint_rates.csv,q2_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4e_MVN_joint_rates.csv,q3_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4e_MVN_joint_rates.csv,q4_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4e_MVN_joint_rates.csv,q6_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4e_MVN_joint_rates.csv,q7_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4e_MVN_joint_rates.csv,q8_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4e_MVN_joint_rates.csv,q9_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4f_SLGNN_joint_rates.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig4/fig4f_SLGNN_joint_rates.csv,q1_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4f_SLGNN_joint_rates.csv,q2_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4f_SLGNN_joint_rates.csv,q3_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4f_SLGNN_joint_rates.csv,q4_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4f_SLGNN_joint_rates.csv,q6_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4f_SLGNN_joint_rates.csv,q7_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4f_SLGNN_joint_rates.csv,q8_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig4/fig4f_SLGNN_joint_rates.csv,q9_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig5/fig5a_all_residuals.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig5/fig5a_all_residuals.csv,GNN_trial1,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,GNN_trial2,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,GNN_trial3,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,GNN_trial4,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,GNN_trial5,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,ZNN_trial1,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,ZNN_trial2,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,ZNN_trial3,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,ZNN_trial4,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,ZNN_trial5,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,SLGNN_trial1,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,SLGNN_trial2,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,SLGNN_trial3,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,SLGNN_trial4,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_all_residuals.csv,SLGNN_trial5,dimensionless,Individual trial scaled KKT residual norm
+fig5/fig5a_median_residual.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig5/fig5a_median_residual.csv,GNN,dimensionless,Pointwise median scaled KKT residual over 5 paired trials
+fig5/fig5a_median_residual.csv,ZNN,dimensionless,Pointwise median scaled KKT residual over 5 paired trials
+fig5/fig5a_median_residual.csv,SLGNN,dimensionless,Pointwise median scaled KKT residual over 5 paired trials
+fig5/fig5b_trial_metrics.csv,method,category,"MVN, GNN, ZNN or SLGNN; old smg-RNN and SP-VP-RNN labels are retained only in native archives"
+fig5/fig5b_trial_metrics.csv,trial,index,Paired initialization index 1--5 shared by all three solvers
+fig5/fig5b_trial_metrics.csv,first_threshold_time_s,s,First sampled residual <= 1e-3; NaN means not reached in 10 s
+fig5/fig5b_trial_metrics.csv,late_residual_RMS,dimensionless,"sqrt(trapz(t,residual^2)/9) using saved samples from 1 to 10 s"
+fig5/fig5b_trial_metrics.csv,window_start_s,s,Start of time-weighted RMS window
+fig5/fig5b_trial_metrics.csv,window_end_s,s,End of time-weighted RMS window
+fig5/paired_initial_states.csv,state_index,index,"Rows 1--10 are scaled primal states; 11--16 are dual states, see experiment_d/network_residual.m"
+fig5/paired_initial_states.csv,trial1,scaled state,Initial state for a paired solver trial; state ordering specified by state_index
+fig5/paired_initial_states.csv,trial2,scaled state,Initial state for a paired solver trial; state ordering specified by state_index
+fig5/paired_initial_states.csv,trial3,scaled state,Initial state for a paired solver trial; state ordering specified by state_index
+fig5/paired_initial_states.csv,trial4,scaled state,Initial state for a paired solver trial; state ordering specified by state_index
+fig5/paired_initial_states.csv,trial5,scaled state,Initial state for a paired solver trial; state ordering specified by state_index
+fig6/fig6a_saved_geometry.csv,object_id,index,Object index matching the adjacent objects.json metadata
+fig6/fig6a_saved_geometry.csv,vertex_index,index,Column-major vertex index in the saved MATLAB graphics object
+fig6/fig6a_saved_geometry.csv,matrix_row,index,Original MATLAB XData/YData/ZData array row
+fig6/fig6a_saved_geometry.csv,matrix_column,index,Original MATLAB XData/YData/ZData array column
+fig6/fig6a_saved_geometry.csv,x_mm,mm,"Saved plot X coordinate; geometric data, not sensor measurement"
+fig6/fig6a_saved_geometry.csv,y_mm,mm,"Saved plot Y coordinate; geometric data, not sensor measurement"
+fig6/fig6a_saved_geometry.csv,z_mm,mm,"Saved plot Z coordinate; geometric data, not sensor measurement"
+fig6/fig6b_joint4.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig6/fig6b_joint4.csv,MVN_q4_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig6/fig6b_joint4.csv,SLGNN_q4_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig6/fig6b_joint9.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig6/fig6b_joint9.csv,MVN_q9_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig6/fig6b_joint9.csv,SLGNN_q9_rate_rad_s,rad/s,Signed physical joint rate; q4/q9 are right/left knees
+fig6/fig6c.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig6/fig6c.csv,MVN_max_normalized_joint_velocity,dimensionless,Maximum over joint-wise absolute rate / bound
+fig6/fig6c.csv,SLGNN_max_normalized_joint_velocity,dimensionless,Maximum over joint-wise absolute rate / bound
+fig6/fig6d.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig6/fig6d.csv,Right_slack_rate_mm_s,mm/s,"Signed vertical slack velocity, not displacement"
+fig6/fig6d.csv,Left_slack_rate_mm_s,mm/s,"Signed vertical slack velocity, not displacement"
+fig6/fig6e_left_velocity_error.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig6/fig6e_left_velocity_error.csv,error_x_m_s,m/s,Signed horizontal velocity error for x/y; norm=sqrt(ex^2+ey^2)
+fig6/fig6e_left_velocity_error.csv,error_y_m_s,m/s,Signed horizontal velocity error for x/y; norm=sqrt(ex^2+ey^2)
+fig6/fig6e_left_velocity_error.csv,error_norm_m_s,m/s,Signed horizontal velocity error for x/y; norm=sqrt(ex^2+ey^2)
+fig6/fig6e_right_velocity_error.csv,time_s,s,Simulation or replay time; irregular sampling for Fig.5
+fig6/fig6e_right_velocity_error.csv,error_x_m_s,m/s,Signed horizontal velocity error for x/y; norm=sqrt(ex^2+ey^2)
+fig6/fig6e_right_velocity_error.csv,error_y_m_s,m/s,Signed horizontal velocity error for x/y; norm=sqrt(ex^2+ey^2)
+fig6/fig6e_right_velocity_error.csv,error_norm_m_s,m/s,Signed horizontal velocity error for x/y; norm=sqrt(ex^2+ey^2)
+simulation_joint_mapping.csv,optimized_joint_slot,index,Eight-joint array slot 1--8 mapped to physical q1--q4/q6--q9
+simulation_joint_mapping.csv,physical_joint_id,index,Joint q0--q10 as defined in manuscript Fig.2
+simulation_joint_mapping.csv,joint,category,Physical joint name
+simulation_joint_mapping.csv,lower_rate_rad_s,rad/s,Simulation rate bound; not the Table1 hardware specification
+simulation_joint_mapping.csv,upper_rate_rad_s,rad/s,Simulation rate bound; not the Table1 hardware specification
+tables/table1_hardware_joint_limits.csv,physical_joint_id,index,Joint q0--q10 as defined in manuscript Fig.2
+tables/table1_hardware_joint_limits.csv,joint,category,Physical joint name
+tables/table1_hardware_joint_limits.csv,position_min_rad,rad,Hardware minimum position reported in Table1
+tables/table1_hardware_joint_limits.csv,position_max_rad,rad,Hardware maximum position reported in Table1
+tables/table1_hardware_joint_limits.csv,max_velocity_rad_s,rad/s,Hardware speed specification reported in Table1
+tables/table1_hardware_joint_limits.csv,max_torque_Nm,Nm,Hardware torque specification reported in Table1
+tables/table2_speed_scan.csv,method,category,"MVN, GNN, ZNN or SLGNN; old smg-RNN and SP-VP-RNN labels are retained only in native archives"
+tables/table2_speed_scan.csv,penalty_p,dimensionless,Penalty parameter; speed scan uses 0 or 200
+tables/table2_speed_scan.csv,speed_over_MVN_boundary,dimensionless,Forward speed divided by the archived MVN boundary speed 137.6953125 mm/s
+tables/table2_speed_scan.csv,forward_speed_mm_s,mm/s,Forward speed in archived scan
+tables/table2_speed_scan.csv,max_abs_joint_rate_rad_s,rad/s,Maximum absolute joint rate in archived scan
+tables/table2_speed_scan.csv,max_normalized_joint_velocity,dimensionless,Maximum over joints of absolute rate divided by the corresponding rate bound
+tables/table2_speed_scan.csv,velocity_feasible,boolean,Velocity-feasibility flag displayed in Table2; does not establish clearance or dynamic stability
+tables/table2_speed_scan.csv,value_status,text,Whether a numeric value was archived or omitted in the manuscript
+tables/table3_solver_summary.csv,method,category,"MVN, GNN, ZNN or SLGNN; old smg-RNN and SP-VP-RNN labels are retained only in native archives"
+tables/table3_solver_summary.csv,paired_trials,count,Number of paired initializations
+tables/table3_solver_summary.csv,median_threshold_time_s,s,Median first sampled threshold time over 5 trials; NaN means not reached
+tables/table3_solver_summary.csv,median_late_residual_RMS,dimensionless,Median of the five individual time-weighted residual RMS values
+tables/table3_solver_summary.csv,window_start_s,s,Start of time-weighted RMS window
+tables/table3_solver_summary.csv,window_end_s,s,End of time-weighted RMS window

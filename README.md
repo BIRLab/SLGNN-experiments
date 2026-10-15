@@ -36,6 +36,20 @@ cd experiment_a
 main
 ```
 
+## 数据与可用性 / Source Data and Availability
+
+论文配图对应的数据、单位、来源及完整性说明见 [source_data](source_data/README.md)。
+提供 CSV、原生图形/结果及导出、查看脚本。Fig.4b、4g、4h 仅保留矢量图，
+未找到原始数值数组；Fig.7 提供论文照片拼图，不包含硬件数值日志。
+
+Data organized by manuscript figure, units, provenance and availability limits
+are documented in [source_data](source_data/README.md), with CSV exports,
+native archives and export/visualization scripts. Fig.4b, 4g and 4h have
+vector figure files only; their original numerical arrays are unavailable.
+Fig.7 includes the published photographic montage, without numerical hardware logs.
+
+数据与代码可用性声明 / [Data and code availability statements](source_data/DATA_AVAILABILITY.md).
+
 ## 开源协议 / License
 
 本项目采用 BSD-3-Clause 协议，详见 LICENSE 文件。

@@ -1,0 +1,25 @@
+manuscript_item,description,data_status,numeric_files,native_sources,units,notes
+Fig.1,Biological inspiration and framework,schematic_no_numeric_series,,,not applicable,Artwork and platform diagrams; see manuscript
+Fig.2,Robot architecture and joint definition,schematic_no_numeric_series,,,not applicable,Artwork and platform diagrams; see manuscript
+Fig.3,Solver architecture,schematic_no_numeric_series,,,not applicable,Artwork and platform diagrams; see manuscript
+Fig.4a,Straight walking saved kinematic geometry,saved_figure_numeric_arrays,fig4/fig4a_saved_geometry.csv,native/fig4a.fig,mm,Saved pose and foot trajectory geometry; no per-vertex timestamp inferred
+Fig.4b,Maximum normalized joint velocity,vector_figure_only,,native/fig4b_vector_only.eps; native/paper_panels/fig4b.pdf,dimensionless,Original numeric arrays not found; do not substitute normalization of panels e/f
+Fig.4c,Feasible region,saved_figure_numeric_arrays,fig4/fig4c_feasible_region.csv; fig4/fig4c_shaded_region.csv,native/fig4c.fig,dimensionless,MVN p=0; SLGNN p=200; speed normalized by 137.6953125 mm/s
+Fig.4d,Vertical slack rates,saved_figure_numeric_arrays,fig4/fig4d.csv,native/fig4d.fig,s; mm/s,
+Fig.4e,MVN joint rates,saved_figure_numeric_arrays,fig4/fig4e_MVN_joint_rates.csv,native/fig4e.fig,s; rad/s,
+Fig.4f,SLGNN joint rates,saved_figure_numeric_arrays,fig4/fig4f_SLGNN_joint_rates.csv,native/fig4f.fig,s; rad/s,
+Fig.4g,right horizontal velocity error,vector_figure_only,,native/fig4g_vector_only.eps; native/paper_panels/fig4g.pdf,s; m/s,Original numeric arrays not found; main plot and inset retained in archived artwork
+Fig.4h,left horizontal velocity error,vector_figure_only,,native/fig4h_vector_only.eps; native/paper_panels/fig4h.pdf,s; m/s,Original numeric arrays not found; main plot and inset retained in archived artwork
+Fig.5a,Median scaled KKT residual,archived_solver_results,fig5/fig5a_all_residuals.csv; fig5/fig5a_median_residual.csv,native/fig5_comparison.mat,s; dimensionless,5 paired initializations; original paper results; smg-RNN renamed SLGNN on export
+Fig.5b,Late residual RMS,archived_solver_results,fig5/fig5b_trial_metrics.csv,native/fig5_comparison.mat,dimensionless,Time-weighted RMS over 1--10 s; dots are trials; medians in Table3
+Fig.6a,Stair ascent saved kinematic geometry,saved_figure_numeric_arrays,fig6/fig6a_saved_geometry.csv,native/fig6a.fig,mm,Saved pose and foot trajectory geometry; no per-vertex timestamp inferred
+Fig.6b right,Physical knee q4 rate,saved_figure_numeric_arrays,fig6/fig6b_joint4.csv,native/fig6b_joint4.fig,s; rad/s,Physical numbering follows manuscript Fig.2
+Fig.6b left,Physical knee q9 rate,saved_figure_numeric_arrays,fig6/fig6b_joint9.csv,native/fig6b_joint9.fig,s; rad/s,Physical numbering follows manuscript Fig.2
+Fig.6c,Maximum normalized joint velocity,saved_figure_numeric_arrays,fig6/fig6c.csv,native/fig6c.fig,s; dimensionless,
+Fig.6d,Vertical slack rates,saved_figure_numeric_arrays,fig6/fig6d.csv,native/fig6d.fig,s; mm/s,
+Fig.6e right,right horizontal velocity error,saved_figure_numeric_arrays,fig6/fig6e_right_velocity_error.csv,native/fig6e_right.fig,s; m/s,Inset is a subset of the full numerical series
+Fig.6e left,left horizontal velocity error,saved_figure_numeric_arrays,fig6/fig6e_left_velocity_error.csv,native/fig6e_left.fig,s; m/s,Inset is a subset of the full numerical series
+Fig.7,Physical robot walking photographs,photographic_evidence_only,,native/fig7_photographic_sequence.pdf,not applicable,Published photographic montage; original individual camera files and numerical hardware logs not found
+Table1,Hardware joint specifications,manuscript_transcription,tables/table1_hardware_joint_limits.csv,,rad; rad/s; Nm,"These are hardware specifications, distinct from simulation bounds"
+Table2,Selected speed scan,archived_scan_summary,tables/table2_speed_scan.csv,native/speed_scan_original.csv,mm/s; rad/s; dimensionless,Selected full precision values; MVN omitted cells remain empty; p=200 for SLGNN
+Table3,Solver convergence statistics,archived_solver_results,tables/table3_solver_summary.csv,native/fig5_comparison.mat,s; dimensionless,NaN threshold time means not reached within 10 s

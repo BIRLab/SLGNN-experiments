@@ -1,0 +1,9 @@
+optimized_joint_slot,physical_joint_id,joint,lower_rate_rad_s,upper_rate_rad_s
+1,1,right_hip_1,-3.4323,3.4323
+2,2,right_hip_2,-2.7,2.7
+3,3,right_hip_3,-1.8,1.8
+4,4,right_knee,-1.8,1.8
+5,6,left_hip_1,-3.4323,3.4323
+6,7,left_hip_2,-2.7,2.7
+7,8,left_hip_3,-1.8,1.8
+8,9,left_knee,-1.8,1.8

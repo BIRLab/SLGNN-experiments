@@ -1,0 +1,4 @@
+method,paired_trials,median_threshold_time_s,median_late_residual_RMS,window_start_s,window_end_s
+GNN,5,NaN,0.131334723177681,1,10
+ZNN,5,0.067,4.87755919359854e-06,1,10
+SLGNN,5,0.065,6.15987218454544e-07,1,10

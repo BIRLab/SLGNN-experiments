@@ -1,0 +1,3 @@
+# Preserve data/archive bytes so checksums are valid across platforms.
+source_data/** -text
+source_data/native/** -diff

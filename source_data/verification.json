@@ -1,0 +1,20 @@
+{
+  "passed": true,
+  "date": "2026-10-16",
+  "mapped_items": 24,
+  "archived_FIG_sources": 12,
+  "original_solver_runs": 15,
+  "fig5_statistics_match_manuscript": true,
+  "table2_values_match_manuscript_rounding": true,
+  "fig4c_curves_match_archived_scan": true,
+  "independent_RMS_recompute_max_abs_error": 3.885780586188048e-16,
+  "MATLAB_numeric_export_roundtrip": "exact IEEE-754 double roundtrip verified",
+  "replot_script_executed": true,
+  "experiment_algorithms_unchanged": true,
+  "unavailable_numeric_arrays": [
+    "Fig.4b",
+    "Fig.4g",
+    "Fig.4h"
+  ],
+  "hardware_logs_included": false
+}

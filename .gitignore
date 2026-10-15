@@ -18,3 +18,7 @@ experiment_c/mvn_baseline_speed_scan_results_*.csv
 __pycache__/
 .DS_Store
 Thumbs.db
+
+# Archived manuscript source data are versioned independently of generated outputs
+!source_data/
+!source_data/**

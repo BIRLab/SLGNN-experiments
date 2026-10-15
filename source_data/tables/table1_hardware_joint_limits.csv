@@ -1,0 +1,12 @@
+physical_joint_id,joint,position_min_rad,position_max_rad,max_velocity_rad_s,max_torque_Nm
+0,waist,-0.8727,0.1571,2.618,191
+1,right_hip_1,-0.8727,0.1571,2.9125,70
+2,right_hip_2,-0.7854,0.7854,2.4323,143
+3,right_hip_3,-1.5708,1.5708,1.8333,395
+4,right_knee,-1.9198,-0.03,1.8333,395
+5,right_ankle,-0.6981,0.349,2.4323,143
+6,left_hip_1,-0.1571,0.8727,2.9125,70
+7,left_hip_2,-0.7854,0.7854,2.4323,143
+8,left_hip_3,-1.5708,1.5708,1.8333,395
+9,left_knee,-1.9198,-0.03,1.8333,395
+10,left_ankle,-0.6981,0.349,2.4323,143

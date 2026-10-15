@@ -1,0 +1,326 @@
+[
+  {
+    "object_id": 1,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      51
+    ]
+  },
+  {
+    "object_id": 2,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      51
+    ]
+  },
+  {
+    "object_id": 3,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      2
+    ]
+  },
+  {
+    "object_id": 4,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      2
+    ]
+  },
+  {
+    "object_id": 5,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      2
+    ]
+  },
+  {
+    "object_id": 6,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      2
+    ]
+  },
+  {
+    "object_id": 7,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      2
+    ]
+  },
+  {
+    "object_id": 8,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      2
+    ]
+  },
+  {
+    "object_id": 9,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      2
+    ]
+  },
+  {
+    "object_id": 10,
+    "type": "surface",
+    "display_name": "",
+    "array_size": [
+      21,
+      21
+    ]
+  },
+  {
+    "object_id": 11,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      2
+    ]
+  },
+  {
+    "object_id": 12,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      7
+    ]
+  },
+  {
+    "object_id": 13,
+    "type": "line",
+    "display_name": "",
+    "array_size": [
+      1,
+      7
+    ]
+  },
+  {
+    "object_id": 14,
+    "type": "scatter",
+    "display_name": "",
+    "array_size": [
+      1,
+      1
+    ]
+  },
+  {
+    "object_id": 15,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 16,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 17,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 18,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 19,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 20,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 21,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 22,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 23,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 24,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 25,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 26,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 27,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 28,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 29,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 30,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 31,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 32,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 33,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 34,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 35,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  },
+  {
+    "object_id": 36,
+    "type": "patch",
+    "display_name": "",
+    "array_size": [
+      4,
+      1
+    ]
+  }
+]
